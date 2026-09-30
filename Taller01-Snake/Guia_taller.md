@@ -316,27 +316,27 @@ markdown
 
 Push exitoso:
 
-![Push exitoso del líder](capturas/Historial_commit_Lider.png)
+![Push exitoso del líder](../capturas/Historial_commit_Lider.png)
 
 ### Integrante 1 - Harrison Brito Candelario
 
 Error antes de resolver conflicto:
 
-![Error Integrante 1](capturas/Integrante1_error.png)
+![Error Integrante 1](../capturas/Integrante1_error.png)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 1](capturas/Integrante1_push_exitoso.png)
+![Push exitoso Integrante 1](../capturas/Integrante1_push_exitoso.png)
 
 ### Integrante 2 - Nayeli Barreto Bravo
 
 Error antes de resolver conflicto:
 
-![Error Integrante 2](capturas/integrante2_errores.png)
+![Error Integrante 2](../capturas/integrante2_errores.png)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 2](capturas/integrante2_push_exitoso.png)
+![Push exitoso Integrante 2](../capturas/integrante2_push_exitoso.png)
 
 
 ## Recomendaciones para resolver conflictos
