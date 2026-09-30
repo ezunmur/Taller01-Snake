@@ -338,6 +338,11 @@ Push exitoso después de resolver conflicto:
 
 ![Push exitoso Integrante 2](../capturas/integrante2_push_exitoso.png)
 
+Compilacion y ejecucion del còdigo:
+
+![Compilacion de Programa 1: GOLD](../capturas/Codigo_compilado.png)
+
+![Compilacion de Programa 2: SNAKE](../capturas/{61F2DE07-91B7-4E56-8521-5C7AA018544B}.png)
 
 ## Recomendaciones para resolver conflictos
 
