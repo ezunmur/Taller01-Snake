@@ -282,11 +282,10 @@ Complete esta tabla al final del taller.
 
 | Rol | Nombre | Usuario de GitHub | Commit principal |
 | --- | --- | --- | --- |
-| Líder |  |  |  |
-| Integrante 1 |  |  |  |
-| Integrante 2 |  |  |  |
-| Integrante 3 |  |  |  |
-| Integrante 4 |  |  |  |
+| Líder | Ezequiel Zuñiga Murillo | ezunmur | 8b1dbc80bdef90f46581f41ea9e57a17987f88c1   |
+| Integrante 1 | Harrison Brito Candelario | HarrisonBrito | 26a7e8ba125d0a868bd113f3654ff38bca83751e |
+| Integrante 2 | Nayeli Barreto Bravo | Nayeli-Barreto | e715f293e864b2fb2642fac0d9907a38df54231f |
+
 
 ## Evidencias
 
@@ -311,6 +310,34 @@ Push exitoso después de resolver conflicto:
 
 ![Push exitoso Integrante 1](capturas/integrante1_push_exitoso.png)
 ```
+EVIDENCIAS GRUPO 4
+markdown
+### Líder - Ezequiel Zuñiga Murillo
+
+Push exitoso:
+
+![Push exitoso del líder](capturas/Historial_commit_Lider.png)
+
+### Integrante 1 - Harrison Brito Candelario
+
+Error antes de resolver conflicto:
+
+![Error Integrante 1](capturas/Integrante1_error.png)
+
+Push exitoso después de resolver conflicto:
+
+![Push exitoso Integrante 1](capturas/Integrante1_push_exitoso.png)
+
+### Integrante 2 - Nayeli Barreto Bravo
+
+Error antes de resolver conflicto:
+
+![Error Integrante 2](capturas/integrante2_errores.png)
+
+Push exitoso después de resolver conflicto:
+
+![Push exitoso Integrante 2](capturas/integrante2_push_exitoso.png)
+
 
 ## Recomendaciones para resolver conflictos
 
